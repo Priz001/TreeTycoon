@@ -1,4 +1,35 @@
-<h1>Tree Tycoon Privacy Policy</h1>
+<h1>Terms of Service</h1>
+<p>Before using our services, you confirm that you have read and agreed to the following terms and conditions. By using
+    our services, you agree to be bound by these terms.</p>
+<h2>User Conduct</h2>
+<p>You agree to use Tree Tycoon for lawful purposes only. You will not use the bot for any illegal or unauthorized
+    purpose including, but not limited to:</p>
+<ul>
+    <li>Botting or using any automated means to interact with the bot</li>
+    <li>Cheating or exploiting any game mechanics or features</li>
+    <li>Abusing any bugs or exploits found in the bot</li>
+    <li>Engaging in any activity that violates applicable laws or regulations</li>
+</ul>
+<h2>Disclaimer</h2>
+<p>We do not guarantee the availability, functionality, or accuracy of the bot at all times. We reserve the right to
+    modify or terminate the bot or any part of the bot without notice or liability to you.</p>
+<h2>Limitation of Liability</h2>
+<p>In no event shall the developers or Tree Tycoon bot be liable for any direct, indirect, incidental, special, or
+    consequential damages arising out of or in any way connected with the use of the bot, even if advised of the
+    possibility of such damages.</p>
+<h2>Indemnification</h2>
+<p>You agree to indemnify, defend, and hold harmless the developers and Tree Tycoon bot from any and all claims,
+    damages, losses, liabilities, actions, judgments, costs, and expenses (including reasonable attorneys’ fees)
+    arising out of or in connection with your use of the bot.</p>
+<h2>Changes to Terms of Service</h2>
+<p>We reserve the right to modify these terms of service at any time without notice. By continuing to use the bot
+    after any changes, you agree to be bound by the updated terms of service.</p>
+<h2>Governing Law</h2>
+<p>These terms of service shall be governed by and construed in accordance with the laws of your local country.</p>
+<p>By using the Tree Tycoon bot, you acknowledge that you have read and understood these terms of service and agree
+    to be bound by them. If you do not agree to these terms, please do not use the bot.</p>
+
+<h1>Privacy Policy</h1>
 <h2>Information We Collect</h2>
 <p>When you interact with our Discord bot, we may collect certain information from you, including but not limited to:
 </p>
