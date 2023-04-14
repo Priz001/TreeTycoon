@@ -36,7 +36,7 @@
     privacy practices of these third-party services.</p>
 <h2>Changes to This Privacy Policy</h2>
 <p>We reserve the right to modify this privacy policy at any time. If we make material changes to this policy, we will
-    notify you by posting an announcement in our [Support Server](https://discord.gg/abGjS8UbME).</p>
+    notify you by posting an announcement in our <a href="https://discord.gg/abGjS8UbME">Support Server</a>.</p>
 <h2>Contact Us</h2>
 <p>If you have any questions or concerns about this privacy policy or the information we collect, please contact us at
-    our [Support Server](https://discord.gg/abGjS8UbME).</p>
+    our <a href="https://discord.gg/abGjS8UbME">Support Server</a>.</p>
